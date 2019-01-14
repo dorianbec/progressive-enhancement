@@ -19,6 +19,9 @@ img {
 header {
 	padding: 25px;
 }
+header h3{
+	color: #FFFACD;
+}
 section {
 	width: 1100px;
 	height: auto;
@@ -39,6 +42,7 @@ blockquote {
 	background-color: #E8E8E8;
 	padding: 30px;
 	margin: 40px;
+	font-style: italic;
 }
 .fermier {
 	border-left: solid 3px #FE360A;
@@ -70,4 +74,9 @@ blockquote {
 hr {
 	width: 450px;
 }
-t
+.colorj {
+	color: #FF0000;
+}
+.colorv {
+	color: #00FF00;
+}
