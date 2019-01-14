@@ -1,5 +1,11 @@
 body {
-	background-color: #E8E8E8;
+	width: 90%;
+	height: 100%;
+	margin: auto;
+	background-image: url("../img/bgimg.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
 }
 .line-height {
 	line-height: 30px;
@@ -11,25 +17,38 @@ img {
 	display: inline-block;
 }
 header {
-	background-color: #79C8E8;
 	padding: 25px;
 }
 section {
 	width: 1100px;
 	height: auto;
 	margin: center;
+	background-color: rgba(000, 000, 000, 0.4);
 }
 article{
-	
+	padding: 25px;
+	margin-top: 20px;
 }
 aside {
 	
+}
+blockquote {
+	width: 50%;
+	border-left: solid 3px #FF867A;
+	font-size: 160%;
+	background-color: #E8E8E8;
+	padding: 30px;
+	margin: 40px;
+}
+.fermier {
+	border-left: solid 3px #FE360A;
 }
 .img_art1 {
 	padding: 25px;
 	width: 250px
 }
 .img_art2 {
+	margin-top: 50px;
 	float: right;
 	padding: 25px;
 	width: 250px
@@ -37,9 +56,18 @@ aside {
 .img_art3 {
 	float: right;
 	padding: 25px;
-	width: 250px
+	width: 50%;
+}
+.img_art3 img {
+	margin-top: 50px;
+	float: right;
+	width: 75%;
+	height: auto;
 }
 .legende {
 	float: right;
-
 }
+hr {
+	width: 450px;
+}
+t
