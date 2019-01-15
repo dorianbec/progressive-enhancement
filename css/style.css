@@ -88,3 +88,56 @@ figcaption {
 	display: block;
 	float: right;
 }
+.td_color {
+	background-color: #FF867A;
+}
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+}
+p {
+  margin-bottom: 15px;
+}
+blockquote {
+  text-indent: -0.8em;
+  font-size: 12px;
+}
+span {
+  font-variant: small-caps;
+}
+h1 {
+  font-style: italic;
+}
+h2 {
+  text-transform: uppercase;
+}
+a {
+  text-decoration: underline;
+}
+h1 {
+  font-size: 48px;
+}
+h2 {
+  font-size: 36px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 21px;
+}
+h5 {
+  font-size: 18px;
+}
+h6 {
+  font-size: 16px;
+}
+p {
+  font-size: 14px;
+}
+.notification {
+	background-color: #FFFF00;
+	padding: 12px 20px;
+	position: relative;
+	float: right;
+}
